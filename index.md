@@ -4,4 +4,4 @@ I have studied game development for several years, all currently released games 
 
 
 
-##### [Draw Line Guard Privacy Policy](yuafa.github.io/DrawLineGuard.md)
+##### [Draw Line Guard Privacy Policy](DrawLineGuard.md)
