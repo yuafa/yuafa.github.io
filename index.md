@@ -6,6 +6,6 @@ I have studied game development for several years, all currently released games 
 
 ##### [Tank Hunter 2 Privacy Policy](TankHunter2.md)
 
-##### [Draw Line Guard Privacy Policy](DrawLineGuard.md)
-
 ##### [Tank Hunter 3 Privacy Policy](TankHunter3.md)
+
+##### [Draw Line Guard Privacy Policy](DrawLineGuard.md)
